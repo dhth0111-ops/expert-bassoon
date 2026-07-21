@@ -1,0 +1,16 @@
+{
+  "name": "요리왕 꼬꼬마",
+  "short_name": "요리왕꼬꼬마",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff8f0",
+  "theme_color": "#ff8a5b",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
